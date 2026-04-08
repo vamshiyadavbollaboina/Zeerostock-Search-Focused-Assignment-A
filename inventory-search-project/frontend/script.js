@@ -1,5 +1,4 @@
-// Set your backend URL here (update for production)
-const BASE_URL = "http://localhost:5000"; // Replace with deployed backend URL
+const BASE_URL = "https://zeerostock-search-focused-assignment-a.onrender.com";
 
 let timeout = null;
 
@@ -48,5 +47,4 @@ async function search() {
   }, 400);
 }
 
-// Load all data on page load
 window.onload = search;

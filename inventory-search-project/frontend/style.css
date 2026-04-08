@@ -6,7 +6,7 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: #f0f2f5; /* Slightly grayer background like the image */
+  background: #f0f2f5;
   padding: 40px 0;
 }
 
@@ -27,7 +27,6 @@ h2 {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Align inputs to the top of the white box */
 .inputs {
   display: flex;
   gap: 15px;
@@ -50,22 +49,19 @@ h2 {
   border-color: #3182ce;
 }
 
-/* Table Styling */
 table {
   width: 100%;
   border-collapse: collapse;
-  /* Removed table-layout: fixed to let content breathe */
 }
 
 th {
-  background: #2579d0; /* Matches the blue in your image */
+  background: #2579d0; 
   color: white;
   text-align: left;
   padding: 15px;
   font-weight: 500;
 }
 
-/* Ensure the first and last columns align with the container edges */
 th:first-child, td:first-child { padding-left: 20px; }
 th:last-child, td:last-child { padding-right: 20px; }
 
@@ -76,7 +72,6 @@ td {
   font-size: 14px;
 }
 
-/* Price column alignment - matching the image look */
 td:nth-child(3), th:nth-child(3) {
   text-align: center; 
 }
@@ -89,7 +84,6 @@ tr:hover {
   background-color: #f1f5f9;
 }
 
-/* Loader & No Results */
 .hidden { display: none; }
 
 .loader {
