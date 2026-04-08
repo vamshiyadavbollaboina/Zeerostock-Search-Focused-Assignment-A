@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Inventory Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h2>Inventory Dashboard</h2>
+
+    <div class="container">
+      <div class="inputs">
+        <input id="q" placeholder="Search product..." oninput="search()" />
+
+        <select id="category" onchange="search()">
+          <option value="">All Categories</option>
+          <option value="Furniture">Furniture</option>
+          <option value="Electronics">Electronics</option>
+          <option value="Stationery">Stationery</option>
+          <option value="Medical">Medical</option>
+          <option value="Industrial">Industrial</option>
+        </select>
+
+        <input
+          id="minPrice"
+          type="number"
+          placeholder="Min Price"
+          oninput="search()"
+        />
+        <input
+          id="maxPrice"
+          type="number"
+          placeholder="Max Price"
+          oninput="search()"
+        />
+      </div>
+
+      <!-- Loader -->
+      <div id="loader" class="loader hidden"></div>
+
+      <!-- Table -->
+      <table id="table">
+        <thead>
+          <tr>
+            <th>Product</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Supplier</th>
+          </tr>
+        </thead>
+        <tbody id="results"></tbody>
+      </table>
+
+      <p id="noResults" class="no-results hidden">No results found</p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

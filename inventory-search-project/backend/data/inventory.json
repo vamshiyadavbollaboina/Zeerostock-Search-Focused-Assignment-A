@@ -1,0 +1,44 @@
+[
+  { "id": 1, "productName": "Office Chair", "category": "Furniture", "price": 120, "supplier": "Prime Furnishings Ltd" },
+  { "id": 2, "productName": "Laptop", "category": "Electronics", "price": 800, "supplier": "TechNova Solutions" },
+  { "id": 3, "productName": "Desk", "category": "Furniture", "price": 200, "supplier": "Prime Furnishings Ltd" },
+  { "id": 4, "productName": "Pen Pack", "category": "Stationery", "price": 20, "supplier": "WriteWell Supplies" },
+  { "id": 5, "productName": "Mouse", "category": "Electronics", "price": 25, "supplier": "TechNova Solutions" },
+
+  { "id": 6, "productName": "Keyboard", "category": "Electronics", "price": 45, "supplier": "TechNova Solutions" },
+  { "id": 7, "productName": "Notebook", "category": "Stationery", "price": 15, "supplier": "WriteWell Supplies" },
+  { "id": 8, "productName": "Bookshelf", "category": "Furniture", "price": 150, "supplier": "UrbanSpace Interiors" },
+  { "id": 9, "productName": "Monitor", "category": "Electronics", "price": 300, "supplier": "DigitalCore Pvt Ltd" },
+  { "id": 10, "productName": "Printer", "category": "Electronics", "price": 250, "supplier": "DigitalCore Pvt Ltd" },
+
+  { "id": 11, "productName": "Stapler", "category": "Stationery", "price": 10, "supplier": "OfficeEdge Supplies" },
+  { "id": 12, "productName": "Whiteboard", "category": "Furniture", "price": 90, "supplier": "UrbanSpace Interiors" },
+  { "id": 13, "productName": "Headphones", "category": "Electronics", "price": 60, "supplier": "SoundMax Electronics" },
+  { "id": 14, "productName": "Desk Lamp", "category": "Furniture", "price": 40, "supplier": "UrbanSpace Interiors" },
+  { "id": 15, "productName": "File Organizer", "category": "Stationery", "price": 18, "supplier": "OfficeEdge Supplies" },
+
+  { "id": 16, "productName": "USB Drive", "category": "Electronics", "price": 12, "supplier": "TechNova Solutions" },
+  { "id": 17, "productName": "Paper Ream", "category": "Stationery", "price": 25, "supplier": "WriteWell Supplies" },
+  { "id": 18, "productName": "Conference Table", "category": "Furniture", "price": 500, "supplier": "Prime Furnishings Ltd" },
+  { "id": 19, "productName": "Router", "category": "Electronics", "price": 70, "supplier": "DigitalCore Pvt Ltd" },
+  { "id": 20, "productName": "Scanner", "category": "Electronics", "price": 180, "supplier": "DigitalCore Pvt Ltd" },
+
+  { "id": 21, "productName": "Marker Set", "category": "Stationery", "price": 22, "supplier": "WriteWell Supplies" },
+  { "id": 22, "productName": "Cabinet", "category": "Furniture", "price": 220, "supplier": "UrbanSpace Interiors" },
+  { "id": 23, "productName": "Webcam", "category": "Electronics", "price": 55, "supplier": "SoundMax Electronics" },
+  { "id": 24, "productName": "Projector", "category": "Electronics", "price": 600, "supplier": "DigitalCore Pvt Ltd" },
+  { "id": 25, "productName": "Sticky Notes", "category": "Stationery", "price": 8, "supplier": "OfficeEdge Supplies" },
+
+  { "id": 26, "productName": "Office Sofa", "category": "Furniture", "price": 350, "supplier": "Prime Furnishings Ltd" },
+  { "id": 27, "productName": "Charging Cable", "category": "Electronics", "price": 10, "supplier": "TechNova Solutions" },
+  { "id": 28, "productName": "Pen Stand", "category": "Stationery", "price": 14, "supplier": "OfficeEdge Supplies" },
+  { "id": 29, "productName": "Drawer Unit", "category": "Furniture", "price": 180, "supplier": "UrbanSpace Interiors" },
+  { "id": 30, "productName": "Bluetooth Speaker", "category": "Electronics", "price": 75, "supplier": "SoundMax Electronics" },
+
+  { "id": 31, "productName": "Surgical Mask Box", "category": "Medical", "price": 30, "supplier": "MediCare Supplies Ltd" },
+  { "id": 32, "productName": "Digital Thermometer", "category": "Medical", "price": 50, "supplier": "HealthPlus Distributors" },
+  { "id": 33, "productName": "First Aid Kit", "category": "Medical", "price": 80, "supplier": "MediCare Supplies Ltd" },
+
+  { "id": 34, "productName": "Safety Helmet", "category": "Industrial", "price": 60, "supplier": "BuildSafe Industries" },
+  { "id": 35, "productName": "Drill Machine", "category": "Industrial", "price": 150, "supplier": "HeavyDuty Tools Co" }
+]
