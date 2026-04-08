@@ -17,7 +17,7 @@ This project is a simplified inventory search engine for **Zeerostock**. It allo
 ## ⚙️ How to Run Locally
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/vamshiyadavbollaboina/Zeerostock-Search-Focused-Assignment-A.git
     cd inventory-search-project
     ```
 2.  **Install Dependencies:**
